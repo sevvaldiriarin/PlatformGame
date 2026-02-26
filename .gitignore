@@ -1,0 +1,16 @@
+source code/[Ll]ibrary/
+source code/[Tt]emp/
+source code/[Oo]bj/
+source code/[Ll]ogs/
+source code/[Uu]serSettings/
+source code/.plastic/
+source code/.dist/
+
+source code/*.csproj
+source code/*.sln
+source code/*.user
+source code/.vscode/
+source code/.vsconfig
+
+.DS_Store
+Thumbs.db
