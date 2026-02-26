@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Death
+  - Star
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zeminler
+  - player
+  - background
+  - coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 981537047
+    locked: 0
+  - name: grass
+    uniqueID: 30503651
+    locked: 0
+  - name: coin
+    uniqueID: 1275846037
+    locked: 0
+  - name: Enemy
+    uniqueID: 1319258887
+    locked: 0
+  - name: enviroments
+    uniqueID: 3163726051
+    locked: 0
+  - name: Player
+    uniqueID: 1938028721
+    locked: 0
